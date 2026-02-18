@@ -7,6 +7,6 @@ class Solution {
             str[i] = (char) ((str[i] - 'a' + total) % 26 + 'a');
 
         }
-        return new String(str);
+        return String.valueOf(str);
     }
 }
