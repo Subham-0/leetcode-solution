@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
+| [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Subham-0/leetcode-solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3151-special-array-i](https://github.com/Subham-0/leetcode-solution/tree/master/3151-special-array-i) |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
