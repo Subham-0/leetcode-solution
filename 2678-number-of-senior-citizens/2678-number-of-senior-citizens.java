@@ -2,9 +2,10 @@ class Solution {
     public int countSeniors(String[] details) {
         int c =0;
         for(int i =0;i<details.length;i++){
-           if(Integer.valueOf(details[i].substring(11,13)) > 60){
+          String str = details[i];
+          if(str.charAt(11)>'6' || str.charAt(11)=='6' && str.charAt(12)>'0'){
             c++;
-           }
+          }
         }
         return c;
     }
