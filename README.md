@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
+| [0728-self-dividing-numbers](https://github.com/Subham-0/leetcode-solution/tree/master/0728-self-dividing-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Subham-0/leetcode-solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Subham-0/leetcode-solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
