@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Subham-0/leetcode-solution/tree/master/2103-rings-and-rods) |
 | [2678-number-of-senior-citizens](https://github.com/Subham-0/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3019-number-of-changing-keys](https://github.com/Subham-0/leetcode-solution/tree/master/3019-number-of-changing-keys) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Subham-0/leetcode-solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Prefix Sum
 |  |
