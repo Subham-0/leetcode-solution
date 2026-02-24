@@ -3,7 +3,7 @@ class Solution {
         List<Integer> list = new ArrayList<Integer>();
         for (int i = left; i <= right; i++) {
             int num = i;
-            boolean f = false;
+            boolean f = true;
             while (num != 0) {
                 int rem = num % 10;
                 num /= 10;
@@ -11,13 +11,9 @@ class Solution {
                     f = false;
                     break;
                 }
-                if (i % rem == 0) {
-                    f = true;
-                    continue;
-                }
 
             }
-            if (f == true) {
+            if (f) {
                 list.add(i);
             }
         }
