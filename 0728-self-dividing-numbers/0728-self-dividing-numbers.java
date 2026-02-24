@@ -7,18 +7,15 @@ class Solution {
             while (num != 0) {
                 int rem = num % 10;
                 num /= 10;
-                if (rem == 0) {
+                if (rem == 0 || i % rem != 0) {
                     f = false;
                     break;
                 }
                 if (i % rem == 0) {
                     f = true;
                     continue;
-                } else {
-                    f = false;
-                    break;
                 }
-                
+
             }
             if (f == true) {
                 list.add(i);
