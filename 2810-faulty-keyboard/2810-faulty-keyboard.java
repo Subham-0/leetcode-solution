@@ -3,7 +3,7 @@ class Solution {
         StringBuilder str = new StringBuilder();
         for (char ch : s.toCharArray()) {
             if (ch != 'i') {
-                str.append(ch + "");
+                str.append(ch);
             } else {
                 str.reverse();
             }
