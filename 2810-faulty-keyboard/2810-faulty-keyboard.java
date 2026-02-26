@@ -8,6 +8,6 @@ class Solution {
                 str.reverse();
             }
         }
-        return new String(str);
+        return str.toString();
     }
 }
