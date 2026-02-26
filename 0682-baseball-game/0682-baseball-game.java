@@ -1,23 +1,30 @@
 class Solution {
     public int calPoints(String[] operations) {
-        List<Integer> list = new ArrayList<Integer>();
 
-        for (int i = 0; i < operations.length; i++) {
-            String op = operations[i];
+        int[] values = new int[operations.length];
+        int i = 0;
+        for (String s : operations) {
+            switch (s) {
+                case "C":
+                    i--;
+                    break;
+                case "D":
+                    values[i] = values[i - 1] * 2;
+                    i++;
+                    break;
+                case "+":
+                    values[i] = values[i - 1] + values[i - 2];
+                    i++;
+                    break;
+                default:
+                    values[i] = Integer.valueOf(s);
+                    i++;
 
-            if (op.equals("C")) {
-                list.remove(list.size() - 1);
-            } else if (op.equals("D")) {
-                list.add(list.get(list.size() - 1) * 2);
-            } else if (op.equals("+")) {
-                list.add(list.get(list.size() - 1) + list.get(list.size() - 2));
-            } else {
-                list.add(Integer.valueOf(op));
             }
         }
         int sum = 0;
-        for (int i : list) {
-            sum += i;
+        for (int j = 0; j < i; j++) {
+            sum += values[j];
         }
         return sum;
     }
