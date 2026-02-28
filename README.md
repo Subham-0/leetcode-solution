@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subham-0/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Subham-0/leetcode-solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-0/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/Subham-0/leetcode-solution/tree/master/0728-self-dividing-numbers) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Subham-0/leetcode-solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Subham-0/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Subham-0/leetcode-solution/tree/master/0682-baseball-game) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Subham-0/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subham-0/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Subham-0/leetcode-solution/tree/master/2810-faulty-keyboard) |
