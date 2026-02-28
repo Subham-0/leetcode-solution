@@ -1,17 +1,19 @@
 class Solution {
     public String destCity(List<List<String>> paths) {
-        int len = paths.size();
-        String destination = paths.get(0).get(1);
-        for (int i = 0; i < len; i++) {
-            for (int j = 1; j < len; j++) {
-                if (i != j) {
-                    if (destination.equals(paths.get(j).get(0))) {
-                        destination = paths.get(j).get(1);
-                        break;
-                    }
-                }
+
+        Set<String> startingCities = new HashSet<String>();
+
+        for (List<String> s : paths) {
+            startingCities.add(s.get(0));
+        }
+
+        for (List<String> s : paths) {
+            String destination = s.get(1);
+            if (!startingCities.contains(destination)) {
+                return destination;
             }
         }
-        return destination;
+        return "";
+
     }
 }
