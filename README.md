@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Subham-0/leetcode-solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-0/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subham-0/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [2103-rings-and-rods](https://github.com/Subham-0/leetcode-solution/tree/master/2103-rings-and-rods) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-0/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Subham-0/leetcode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [2103-rings-and-rods](https://github.com/Subham-0/leetcode-solution/tree/master/2103-rings-and-rods) |
 | [2678-number-of-senior-citizens](https://github.com/Subham-0/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
