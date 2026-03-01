@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subham-0/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-0/leetcode-solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/Subham-0/leetcode-solution/tree/master/2103-rings-and-rods) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-0/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Subham-0/leetcode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-0/leetcode-solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/Subham-0/leetcode-solution/tree/master/2103-rings-and-rods) |
 | [2678-number-of-senior-citizens](https://github.com/Subham-0/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Subham-0/leetcode-solution/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-0/leetcode-solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham-0/leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
