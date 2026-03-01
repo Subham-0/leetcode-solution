@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Subham-0/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/Subham-0/leetcode-solution/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Subham-0/leetcode-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
