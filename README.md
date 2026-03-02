@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Subham-0/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subham-0/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Subham-0/leetcode-solution/tree/master/2810-faulty-keyboard) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Subham-0/leetcode-solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Subham-0/leetcode-solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Subham-0/leetcode-solution/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/Subham-0/leetcode-solution/tree/master/3019-number-of-changing-keys) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Subham-0/leetcode-solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Subham-0/leetcode-solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Prefix Sum
 |  |
