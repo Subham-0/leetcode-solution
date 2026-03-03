@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subham-0/leetcode-solution/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Subham-0/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subham-0/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Subham-0/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Subham-0/leetcode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Subham-0/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Subham-0/leetcode-solution/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subham-0/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
