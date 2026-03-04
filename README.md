@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Subham-0/leetcode-solution/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Subham-0/leetcode-solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Subham-0/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-0/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subham-0/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-0/leetcode-solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/Subham-0/leetcode-solution/tree/master/2103-rings-and-rods) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Subham-0/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-0/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham-0/leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Subham-0/leetcode-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Subham-0/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Subham-0/leetcode-solution/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-0/leetcode-solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Subham-0/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham-0/leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
