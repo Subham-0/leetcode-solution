@@ -10,17 +10,5 @@ class Solution {
             i += 2;
         }
         return true;
-
-        // Map<Integer, Integer> map = new HashMap<>();
-        // for (int i : nums) {
-        //     map.put(i, map.getOrDefault(i, 0) + 1);
-        // }
-        // for (Integer value : map.values()) {
-        //     if (value % 2 != 0) {
-        //         return false;
-        //     }
-        // }
-        // return true;
-
     }
 }
