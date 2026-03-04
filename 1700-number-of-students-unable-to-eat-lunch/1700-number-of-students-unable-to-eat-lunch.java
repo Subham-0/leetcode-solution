@@ -1,17 +1,30 @@
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
-        Map<Integer, Integer> map = new HashMap<>();
-        int studentLen = students.length;
-        for (int i = 0; i < studentLen; i++) {
-            map.put(students[i], map.getOrDefault(students[i], 0) + 1);
-        }
-        for (int i = 0; i < studentLen; i++) {
-            if (map.getOrDefault(sandwiches[i], 0) > 0) {
-                map.put(sandwiches[i], map.get(sandwiches[i]) - 1);
+        int zeroCount = 0;
+        int oneCount = 0;
+
+        for (int i : students) {
+            if (i == 0) {
+                zeroCount++;
             } else {
-                return map.getOrDefault(0, 0) + map.getOrDefault(1, 0);
+                oneCount++;
+            }
+        }
+
+        for (int s : sandwiches) {
+            if (s == 0) {
+                if (zeroCount == 0) {
+                    return oneCount;
+                }
+                zeroCount--;
+            } else {
+                if (oneCount == 0) {
+                    return zeroCount;
+                }
+                oneCount--;
             }
         }
         return 0;
+
     }
 }
