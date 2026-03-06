@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Subham-0/leetcode-solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/Subham-0/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Subham-0/leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham-0/leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3151-special-array-i](https://github.com/Subham-0/leetcode-solution/tree/master/3151-special-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subham-0/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Subham-0/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subham-0/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Subham-0/leetcode-solution/tree/master/2810-faulty-keyboard) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Subham-0/leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Subham-0/leetcode-solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Subham-0/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-0/leetcode-solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-0/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Subham-0/leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham-0/leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
