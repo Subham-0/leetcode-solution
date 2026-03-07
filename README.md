@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
 | [0561-array-partition](https://github.com/Subham-0/leetcode-solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Subham-0/leetcode-solution/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Subham-0/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Subham-0/leetcode-solution/tree/master/0682-baseball-game) |
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Subham-0/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Subham-0/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 ## Queue
 |  |
