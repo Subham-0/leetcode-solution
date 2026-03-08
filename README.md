@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Subham-0/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Subham-0/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Subham-0/leetcode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subham-0/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
