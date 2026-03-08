@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subham-0/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Subham-0/leetcode-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [1652-defuse-the-bomb](https://github.com/Subham-0/leetcode-solution/tree/master/1652-defuse-the-bomb) |
