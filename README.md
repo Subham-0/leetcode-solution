@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Subham-0/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Subham-0/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Subham-0/leetcode-solution/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Subham-0/leetcode-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Subham-0/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -195,4 +197,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Subham-0/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Subham-0/leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
