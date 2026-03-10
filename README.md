@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Subham-0/leetcode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Subham-0/leetcode-solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Subham-0/leetcode-solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-0/leetcode-solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
