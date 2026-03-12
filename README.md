@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Subham-0/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Subham-0/leetcode-solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Subham-0/leetcode-solution/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Subham-0/leetcode-solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Subham-0/leetcode-solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-0/leetcode-solution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Subham-0/leetcode-solution/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2103-rings-and-rods](https://github.com/Subham-0/leetcode-solution/tree/master/2103-rings-and-rods) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Subham-0/leetcode-solution/tree/master/2678-number-of-senior-citizens) |
