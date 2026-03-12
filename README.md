@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Subham-0/leetcode-solution/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subham-0/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Subham-0/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Subham-0/leetcode-solution/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Subham-0/leetcode-solution/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
