@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Subham-0/leetcode-solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3151-special-array-i](https://github.com/Subham-0/leetcode-solution/tree/master/3151-special-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Subham-0/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Subham-0/leetcode-solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subham-0/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Subham-0/leetcode-solution/tree/master/2716-minimize-string-length) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham-0/leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Subham-0/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Subham-0/leetcode-solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subham-0/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-0/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Subham-0/leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subham-0/leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Subham-0/leetcode-solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Linked List
 |  |
 | ------- |
