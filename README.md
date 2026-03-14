@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Subham-0/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Subham-0/leetcode-solution/tree/master/0905-sort-array-by-parity) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Subham-0/leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Subham-0/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
