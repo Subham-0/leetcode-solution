@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Subham-0/leetcode-solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Subham-0/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Subham-0/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0561-array-partition](https://github.com/Subham-0/leetcode-solution/tree/master/0561-array-partition) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Subham-0/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Subham-0/leetcode-solution/tree/master/0905-sort-array-by-parity) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Subham-0/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Subham-0/leetcode-solution/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Subham-0/leetcode-solution/tree/master/0905-sort-array-by-parity) |
