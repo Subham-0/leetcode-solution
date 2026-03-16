@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subham-0/leetcode-solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Subham-0/leetcode-solution/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Subham-0/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Subham-0/leetcode-solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Subham-0/leetcode-solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Subham-0/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Subham-0/leetcode-solution/tree/master/0561-array-partition) |
