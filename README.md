@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Subham-0/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Subham-0/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Subham-0/leetcode-solution/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Subham-0/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/Subham-0/leetcode-solution/tree/master/0848-shifting-letters) |
 | [0905-sort-array-by-parity](https://github.com/Subham-0/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/Subham-0/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Subham-0/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Subham-0/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Subham-0/leetcode-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Subham-0/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-0/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Subham-0/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Subham-0/leetcode-solution/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Subham-0/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subham-0/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Subham-0/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Subham-0/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
