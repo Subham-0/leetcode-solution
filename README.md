@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Subham-0/leetcode-solution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/Subham-0/leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Subham-0/leetcode-solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Subham-0/leetcode-solution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/Subham-0/leetcode-solution/tree/master/3019-number-of-changing-keys) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Subham-0/leetcode-solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Subham-0/leetcode-solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Subham-0/leetcode-solution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
