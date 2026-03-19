@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Subham-0/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/Subham-0/leetcode-solution/tree/master/1332-remove-palindromic-subsequences) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Subham-0/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Subham-0/leetcode-solution/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1332-remove-palindromic-subsequences](https://github.com/Subham-0/leetcode-solution/tree/master/1332-remove-palindromic-subsequences) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Subham-0/leetcode-solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Subham-0/leetcode-solution/tree/master/1704-determine-if-string-halves-are-alike) |
