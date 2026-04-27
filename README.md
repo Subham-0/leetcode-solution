@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Subham-0/leetcode-solution/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Subham-0/leetcode-solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Subham-0/leetcode-solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/Subham-0/leetcode-solution/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Subham-0/leetcode-solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Subham-0/leetcode-solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Subham-0/leetcode-solution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
