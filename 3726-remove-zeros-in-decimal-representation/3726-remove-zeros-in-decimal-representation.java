@@ -1,16 +1,16 @@
 class Solution {
     public long removeZeros(long n) {
-        String number = Long.toString(n);
-        StringBuilder res = new StringBuilder();
-
-        for (int i = 0; i < number.length(); i++) {
-            if (number.charAt(i) != '0') {
-                res.append(number.charAt(i));
+        long result = 0;
+        long place = 1;
+        while (n > 0) {
+            if (n % 10 != 0) {
+                result += (n % 10) * place;
+                place *= 10;
             }
+            n /= 10;
         }
 
-        if (res.length() == 0) return 0;
+        return result;
 
-        return Long.parseLong(res.toString());
     }
 }
