@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Subham-0/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Subham-0/leetcode-solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subham-0/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Subham-0/leetcode-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Subham-0/leetcode-solution/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Subham-0/leetcode-solution/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subham-0/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Subham-0/leetcode-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Subham-0/leetcode-solution/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Subham-0/leetcode-solution/tree/master/3074-apple-redistribution-into-boxes) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Subham-0/leetcode-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Subham-0/leetcode-solution/tree/master/1051-height-checker) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Subham-0/leetcode-solution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subham-0/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Subham-0/leetcode-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting Sort
 |  |
 | ------- |
