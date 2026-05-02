@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Subham-0/leetcode-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1436-destination-city](https://github.com/Subham-0/leetcode-solution/tree/master/1436-destination-city) |
+| [1470-shuffle-the-array](https://github.com/Subham-0/leetcode-solution/tree/master/1470-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/Subham-0/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subham-0/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Subham-0/leetcode-solution/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
