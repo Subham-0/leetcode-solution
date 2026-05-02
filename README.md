@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Subham-0/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/Subham-0/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Subham-0/leetcode-solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Subham-0/leetcode-solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Subham-0/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
