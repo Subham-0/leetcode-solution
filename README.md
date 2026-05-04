@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Subham-0/leetcode-solution/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Subham-0/leetcode-solution/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Subham-0/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Subham-0/leetcode-solution/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Subham-0/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Subham-0/leetcode-solution/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Subham-0/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Subham-0/leetcode-solution/tree/master/0509-fibonacci-number) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Subham-0/leetcode-solution/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Subham-0/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subham-0/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
