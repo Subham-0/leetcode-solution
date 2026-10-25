@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Subham-0/leetcode-solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Subham-0/leetcode-solution/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/Subham-0/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Subham-0/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-0/leetcode-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-0/leetcode-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subham-0/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Subham-0/leetcode-solution/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/Subham-0/leetcode-solution/tree/master/1332-remove-palindromic-subsequences) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Subham-0/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subham-0/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Subham-0/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Subham-0/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Subham-0/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subham-0/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/Subham-0/leetcode-solution/tree/master/2810-faulty-keyboard) |
