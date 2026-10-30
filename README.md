@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Subham-0/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/Subham-0/leetcode-solution/tree/master/1332-remove-palindromic-subsequences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subham-0/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/Subham-0/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Subham-0/leetcode-solution/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-0/leetcode-solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Subham-0/leetcode-solution/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Subham-0/leetcode-solution/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Subham-0/leetcode-solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Subham-0/leetcode-solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/Subham-0/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Subham-0/leetcode-solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Subham-0/leetcode-solution/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Subham-0/leetcode-solution/tree/master/0933-number-of-recent-calls) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Subham-0/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
