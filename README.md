@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/Subham-0/leetcode-solution/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Subham-0/leetcode-solution/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Subham-0/leetcode-solution/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3765-complete-prime-number](https://github.com/Subham-0/leetcode-solution/tree/master/3765-complete-prime-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
+| [3765-complete-prime-number](https://github.com/Subham-0/leetcode-solution/tree/master/3765-complete-prime-number) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Subham-0/leetcode-solution/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Subham-0/leetcode-solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3765-complete-prime-number](https://github.com/Subham-0/leetcode-solution/tree/master/3765-complete-prime-number) |
 ## Stack
 |  |
 | ------- |
