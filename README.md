@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subham-0/leetcode-solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subham-0/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Subham-0/leetcode-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Subham-0/leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Subham-0/leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-0/leetcode-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Subham-0/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Subham-0/leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Subham-0/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Subham-0/leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
