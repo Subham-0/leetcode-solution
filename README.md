@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Subham-0/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Subham-0/leetcode-solution/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Subham-0/leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/Subham-0/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Subham-0/leetcode-solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Subham-0/leetcode-solution/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Subham-0/leetcode-solution/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/Subham-0/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
 | ------- |
